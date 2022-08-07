@@ -1,0 +1,28 @@
+{
+  "name": "ana-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ava0003/ana-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ava0003/ana-website/issues"
+  },
+  "homepage": "https://github.com/ava0003/ana-website#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19",
+    "webpack": "^5.74.0"
+  },
+  "type": "module"
+}
